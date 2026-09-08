@@ -1,5 +1,5 @@
 ## Hi there is zhewanyiershinicheng👋
-
+[🇨🇳 简体中文](README.md) | [🇺🇸 English](README_EN.md) 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web
